@@ -1,2 +1,3 @@
-# data_science
-Repositório destinado a armazenar scripts de python no Google Colab
+# Resositório: Data_Science
+
+Este repositório é destinado a Ciência de Dados com Python, os arquivos disponibilizados nos projetos são ligados diretamente.
